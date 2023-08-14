@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import Counter2 from './Counter2'
+import Counter3 from './Counter3'
 
 function App() {
   return (
-    <div className='App'><Counter2/></div>
+    <div className='App'><Counter3/></div>
   )
 }
 
